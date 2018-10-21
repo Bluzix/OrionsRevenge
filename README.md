@@ -21,3 +21,4 @@ He was my Computer Science I professor!  He taught how to use the Java Canvas to
 
 ## Known Bugs
 - The Mute Music checkbox only stops the music from looping, it won't stop until the current loop is done.
+- The Music could use some work: it's not as catchy as I would like it to be and it gets grating after a few loops.
